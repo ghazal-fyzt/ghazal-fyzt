@@ -37,7 +37,7 @@ I'm continuously expanding my knowledge in cybersecurity and networking. Here ar
 
 - **Reading:** Enjoy fantasy and political/social books.
 - **Music:** Playing the piano.
-- **Fitness:** Love going to the gym and training for a half marathon next year.
+- **Fitness:** Love going to the gym.
 
 ![Hobbies](https://img.shields.io/badge/Hobbies-Reading%20|%20Piano%20|%20Gym%20|%20Running-FF69B4?style=for-the-badge&color=pink)
 
