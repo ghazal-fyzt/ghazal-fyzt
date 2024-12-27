@@ -11,7 +11,7 @@ I developed an interest in networking thanks to an inspiring teacher during my u
 ## 🛠️ Skills 
 
 
-- **Networking:** 
+- **Networking** 
 - **Cybersecurity:** Fundamentals of cybersecurity, penetration testing, threat hunting, and cryptography.
 - **Programming:** Familiar with Python and SQL.
 - **Operating Systems:** Proficient in Linux.
@@ -22,7 +22,7 @@ I developed an interest in networking thanks to an inspiring teacher during my u
 Currently, I have one project:
 
 ### [Network Automation in Action](https://github.com/ghazal-fyzt/Network-Automation-in-Action-A-Virtual-Lab-Approach)
-*Brief description of your project goes here. Explain what it does, the technologies used, and any other relevant details.*
+
 
 ## 📚 Learning Journey
 
@@ -56,4 +56,3 @@ I'm training for a half marathon next year and love pushing my limits both menta
 
 ---
 
-![Purple Heart](https://img.shields.io/badge/Heart-Purple.svg?style=for-the-badge&color=purple) ![Pink Love](https://img.shields.io/badge/Love-Pink.svg?style=for-the-badge&color=pink)
