@@ -17,12 +17,6 @@ I developed an interest in networking thanks to an inspiring teacher during my u
 - **Operating Systems:** Proficient in Linux.
 - **Tools:** Familiar with various cybersecurity tools and platforms.
 
-## 🚀 Projects
-
-Currently, I have one project:
-
-### [Network Automation in Action](https://github.com/ghazal-fyzt/Network-Automation-in-Action-A-Virtual-Lab-Approach)
-
 
 ## 📚 Learning Journey
 
