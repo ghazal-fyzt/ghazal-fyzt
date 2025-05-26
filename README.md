@@ -4,7 +4,7 @@
 
 ## About Me
 
-🎓 **Education:** Final semester of Bachelor's in Computer Engineering
+🎓 **Education:**  Bachelor of Science in Computer Engineering (Software)
 
 I developed an interest in networking thanks to an inspiring teacher during my university studies, which sparked my journey into learning about networks. However, my true passion lies in **Cybersecurity**. Although I'm just starting out and consider myself a beginner in this field, I'm eager to learn and excited to work on many projects that will help me grow and specialize in cybersecurity.
 
