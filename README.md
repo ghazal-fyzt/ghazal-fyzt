@@ -44,9 +44,6 @@ I'm continuously expanding my knowledge in cybersecurity and networking. Here ar
 - **Email:** [ghazalfayaztorshizi@gmail.com](mailto:ghazalfayaztorshizi@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ghazal-fayaztorshizi](www.linkedin.com/in/ghazal-fayaztorshizi-b82a22315)
 
-## ⚡ Fun Fact
-
-I'm training for a half marathon next year and love pushing my limits both mentally and physically!
 
 ---
 
