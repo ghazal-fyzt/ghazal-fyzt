@@ -1,36 +1,15 @@
 # Hi there, I'm Ghazal 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Ghazal.Ghazal&color=purple)
 
 ## About Me
 
-🎓 **Education:**  Bachelor of Science in Computer Engineering (Software)
 
-I developed an interest in networking thanks to an inspiring teacher during my university studies, which sparked my journey into learning about networks. However, my true passion lies in **Cybersecurity**. Although I'm just starting out and consider myself a beginner in this field, I'm eager to learn and excited to work on many projects that will help me grow and specialize in cybersecurity.
+I'm doing my master's in Cybersecurity at Saarland University in Germany. Before that I studied Computer Engineering, and most of my hands-on experience is in networking: VLANs, firewall rules and Linux.
 
-## 🛠️ Skills 
+At the moment I'm sharpening my Linux, Python and web security skills, and I'll put the things I build here as I go.
 
+My main project so far is my bachelor thesis, [Network Automation in Action](https://github.com/ghazal-fyzt/Network-Automation-in-Action-A-Virtual-Lab-Approach): a Python tool with a simple text interface that automates network setup, firewall rules (nftables), Open vSwitch and monitoring for virtual LANs on Linux.
 
-- **Networking** 
-- **Cybersecurity:** Fundamentals of cybersecurity, penetration testing, threat hunting, and cryptography.
-- **Programming:** Familiar with Python and SQL.
-- **Operating Systems:** Proficient in Linux.
-- **Tools:** Familiar with various cybersecurity tools and platforms.
-
-
-## 📚 Learning Journey
-
-I'm continuously expanding my knowledge in cybersecurity and networking. Here are some areas I'm focusing on:
-
-- **Advanced Penetration Testing**
-- **Threat Detection and Response**
-- **Cryptographic Techniques**
-- **Security Automation**
-
-
-## 📈 GitHub Stats
-
-![Ghazal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghazal-fyzt&show_icons=true&theme=tokyonight&border_radius=10&color=purple)
 
 ## 📫 How to Reach Me
 
